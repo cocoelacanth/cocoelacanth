@@ -9,5 +9,5 @@ Currently a high school student doing code in my free time. Not everything I mak
 
 <details><summary>Trophies</summary>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=CocoTheMii&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=CocoTheMii&margin-w=15&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
