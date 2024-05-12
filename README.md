@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### I'm Coco (he/him).
+### I'm Coco (he/they).
 I consider myself an enthusiast web developer. I'm by no means a professional, but I'm working to get there!
 
 Currently a high school student doing code in my free time. Not everything I make is web-related.
