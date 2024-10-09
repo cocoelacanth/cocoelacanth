@@ -1,13 +1,9 @@
 # Hi there! 👋
 
 ### I'm Coco (he/they).
-I consider myself an enthusiast web developer. I'm by no means a professional, but I'm working to get there!
+I'm currently in my first semester of a Computer Science program.
 
-Currently a high school graduate doing code in my free time. Not everything I make is web-related.
+Most experienced in Python, HTML and CSS. Some knowledge of Javascript. Currently learning Java.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ai,git,github,py,vscode,pwsh,bash,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ai,py,java,vscode,eclipse,pwsh,bash)](https://skillicons.dev)
 
-<details><summary>Trophies</summary>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=CocoTheMii&margin-w=15&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
