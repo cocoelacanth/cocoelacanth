@@ -5,7 +5,7 @@
 * currently in first-year comp sci
 * love doing random projects
 
-![he/him](img/he-him.gif) ![they/them](img/they-them.gif) ![pride NOW](img/pridenow.gif)
+![cocoelacanth](img/cocoelacanth.gif) ![he/him](img/he-him.gif) ![they/them](img/they-them.gif) ![pride NOW](img/pridenow.gif)
 
 ### languages
 * most comfortable with HTML and CSS
