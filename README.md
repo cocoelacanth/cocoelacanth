@@ -1,9 +1,20 @@
-# Hi there! 👋
+# hello! i'm coco ✌️
+### about me
+* he/they pronouns
+* queer & proud 🏳️‍🌈
+* currently in first-year comp sci
+* love doing random projects
 
-### I'm Coco (he/they).
-I'm currently in my first semester of a Computer Science program.
+![he/him](img/he-him.gif) ![they/them](img/they-them.gif) ![pride NOW](img/pridenow.gif)
 
-Most experienced in HTML and CSS. Some knowledge of Javascript and Python. Currently learning Java.
+### languages
+* most comfortable with HTML and CSS
+* pretty comfortable with python
+* currently learning java
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ai,py,java,vscode,eclipse,pwsh,bash)](https://skillicons.dev)
-
+### software i use
+* **web browser:** firefox dev
+* **text/code:** visual studio code, vim
+* **java IDE:** eclipse
+* **image editing:** paint.net
+* **vector:** inkscape
