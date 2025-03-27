@@ -2,10 +2,10 @@
 ### about me
 * he/they pronouns
 * queer & proud 🏳️‍🌈
-* currently in first-year comp sci
+* currently a comp sci student
 * love doing random projects
 
-![cocoelacanth](img/cocoelacanth.gif) ![he/him](img/he-him.gif) ![they/them](img/they-them.gif) ![pride NOW](img/pridenow.gif)
+![cocoelacanth](img/cocoelacanth.gif) ![they/them](img/they-them.gif) ![pride NOW](img/pridenow.gif)
 
 ### languages
 * most comfortable with HTML and CSS
