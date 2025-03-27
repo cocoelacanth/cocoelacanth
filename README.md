@@ -1,6 +1,6 @@
 # hello! i'm coco ✌️
 ### about me
-* he/they pronouns
+* they/any pronouns
 * queer & proud 🏳️‍🌈
 * currently a comp sci student
 * love doing random projects
