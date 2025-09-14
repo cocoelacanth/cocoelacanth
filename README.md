@@ -10,7 +10,7 @@
 ### languages
 * most comfortable with HTML and CSS
 * pretty comfortable with python and java
-* currently learning C++
+* currently learning C
 
 ### software i use
 * **web browser:** firefox nightly
