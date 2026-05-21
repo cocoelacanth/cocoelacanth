@@ -1,19 +1,17 @@
-# hello! i'm coco ✌️
+# hello! i'm coco 🐾
 ### about me
 * any pronouns
 * queer & proud 🏳️‍🌈
-* currently a comp sci student
-* love doing random projects
+* love working on little projects
 
 ![cocoelacanth](img/cocoelacanth.gif) ![any/all](img/any-all.png) ![gay & proud](img/gay-n-proud.png)
 
 ### languages
-* most comfortable with HTML and CSS
-* pretty comfortable with python and java
-* currently learning C++
+* most comfortable with HTML, CSS, JS and python
+* some java, C++ and go
 
 ### software i use
 * **web browser:** firefox nightly
-* **text/code:** vscodium, vim
-* **image editing:** paint.net
+* **text/code:** zed, vim
+* **image editing:** GIMP
 * **vector:** inkscape
